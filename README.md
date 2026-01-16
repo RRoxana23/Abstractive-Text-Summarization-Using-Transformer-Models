@@ -4,6 +4,16 @@ This repository contains the experimental software developed for a Deep Learning
 
 ---
 
+## Open in Google Colab
+
+You can run the full experiment directly in Google Colab using the link below:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/RRoxana23/Abstractive-Text-Summarization-Using-Transformer-Models/blob/main/Text_Summarization.ipynb
+)
+
+---
+
 ## Project Overview
 
 - Task: Abstractive text summarization
